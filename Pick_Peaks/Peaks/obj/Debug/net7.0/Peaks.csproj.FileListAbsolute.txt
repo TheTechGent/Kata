@@ -1,0 +1,15 @@
+C:\Users\DaleG\Coding\__KATA__\Pick_Peaks\Peaks\bin\Debug\net7.0\Peaks.exe
+C:\Users\DaleG\Coding\__KATA__\Pick_Peaks\Peaks\bin\Debug\net7.0\Peaks.deps.json
+C:\Users\DaleG\Coding\__KATA__\Pick_Peaks\Peaks\bin\Debug\net7.0\Peaks.runtimeconfig.json
+C:\Users\DaleG\Coding\__KATA__\Pick_Peaks\Peaks\bin\Debug\net7.0\Peaks.dll
+C:\Users\DaleG\Coding\__KATA__\Pick_Peaks\Peaks\bin\Debug\net7.0\Peaks.pdb
+C:\Users\DaleG\Coding\__KATA__\Pick_Peaks\Peaks\obj\Debug\net7.0\Peaks.csproj.AssemblyReference.cache
+C:\Users\DaleG\Coding\__KATA__\Pick_Peaks\Peaks\obj\Debug\net7.0\Peaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaleG\Coding\__KATA__\Pick_Peaks\Peaks\obj\Debug\net7.0\Peaks.AssemblyInfoInputs.cache
+C:\Users\DaleG\Coding\__KATA__\Pick_Peaks\Peaks\obj\Debug\net7.0\Peaks.AssemblyInfo.cs
+C:\Users\DaleG\Coding\__KATA__\Pick_Peaks\Peaks\obj\Debug\net7.0\Peaks.csproj.CoreCompileInputs.cache
+C:\Users\DaleG\Coding\__KATA__\Pick_Peaks\Peaks\obj\Debug\net7.0\Peaks.dll
+C:\Users\DaleG\Coding\__KATA__\Pick_Peaks\Peaks\obj\Debug\net7.0\refint\Peaks.dll
+C:\Users\DaleG\Coding\__KATA__\Pick_Peaks\Peaks\obj\Debug\net7.0\Peaks.pdb
+C:\Users\DaleG\Coding\__KATA__\Pick_Peaks\Peaks\obj\Debug\net7.0\Peaks.genruntimeconfig.cache
+C:\Users\DaleG\Coding\__KATA__\Pick_Peaks\Peaks\obj\Debug\net7.0\ref\Peaks.dll

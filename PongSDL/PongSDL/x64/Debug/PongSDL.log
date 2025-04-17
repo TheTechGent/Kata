@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\DaleG\__LEARNING\__KATA\TheBeginning\PongSDL\Main.cpp(5,11): error C2734: 'WINDOW_HEIGHT': 'const' object must be initialized if not 'extern'
+C:\Users\DaleG\__LEARNING\__KATA\TheBeginning\PongSDL\Main.cpp(6,11): error C2734: 'WINDOW_WIDTH': 'const' object must be initialized if not 'extern'
+C:\Users\DaleG\__LEARNING\__KATA\TheBeginning\PongSDL\Main.cpp(7,11): error C2734: 'PADDLE_HEIGHT': 'const' object must be initialized if not 'extern'
+C:\Users\DaleG\__LEARNING\__KATA\TheBeginning\PongSDL\Main.cpp(8,11): error C2734: 'PADDLE_WIDTH': 'const' object must be initialized if not 'extern'
+C:\Users\DaleG\__LEARNING\__KATA\TheBeginning\PongSDL\Main.cpp(9,11): error C2734: 'PADDLE_SPEED': 'const' object must be initialized if not 'extern'
+C:\Users\DaleG\__LEARNING\__KATA\TheBeginning\PongSDL\Main.cpp(10,11): error C2734: 'BALL_SIZE': 'const' object must be initialized if not 'extern'
+C:\Users\DaleG\__LEARNING\__KATA\TheBeginning\PongSDL\Main.cpp(11,11): error C2734: 'BALL_SPEED': 'const' object must be initialized if not 'extern'
