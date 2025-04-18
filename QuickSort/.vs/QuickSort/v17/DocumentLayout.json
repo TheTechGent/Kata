@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\__LEARNING\\__KATA\\QuickSort\\",
+  "WorkspaceRootPath": "C:\\Users\\TheTechGent\\01-LEARNING\\Kata\\QuickSort\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1C4361E-45E6-4186-8FC5-27A85BD6CFA6}|QuickSort.vcxproj|D:\\__LEARNING\\__KATA\\QuickSort\\QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A1C4361E-45E6-4186-8FC5-27A85BD6CFA6}|QuickSort.vcxproj|C:\\Users\\TheTechGent\\01-LEARNING\\Kata\\QuickSort\\QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A1C4361E-45E6-4186-8FC5-27A85BD6CFA6}|QuickSort.vcxproj|solutionrelative:QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "QuickSort.cpp",
-              "DocumentMoniker": "D:\\__LEARNING\\__KATA\\QuickSort\\QuickSort.cpp",
+              "DocumentMoniker": "C:\\Users\\TheTechGent\\01-LEARNING\\Kata\\QuickSort\\QuickSort.cpp",
               "RelativeDocumentMoniker": "QuickSort.cpp",
-              "ToolTip": "D:\\__LEARNING\\__KATA\\QuickSort\\QuickSort.cpp",
+              "ToolTip": "C:\\Users\\TheTechGent\\01-LEARNING\\Kata\\QuickSort\\QuickSort.cpp",
               "RelativeToolTip": "QuickSort.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-17T18:33:45.539Z",
               "EditorCaption": ""
