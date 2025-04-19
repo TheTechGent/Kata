@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TheTechGent\\01-LEARNING\\Kata\\QuickSort\\",
+  "WorkspaceRootPath": "D:\\02_Learning\\03_Kata\\Kata\\QuickSort\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1C4361E-45E6-4186-8FC5-27A85BD6CFA6}|QuickSort.vcxproj|C:\\Users\\TheTechGent\\01-LEARNING\\Kata\\QuickSort\\QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A1C4361E-45E6-4186-8FC5-27A85BD6CFA6}|QuickSort.vcxproj|solutionrelative:QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A1C4361E-45E6-4186-8FC5-27A85BD6CFA6}|QuickSort.vcxproj|D:\\02_Learning\\03_Kata\\Kata\\QuickSort\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1C4361E-45E6-4186-8FC5-27A85BD6CFA6}|QuickSort.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C4361E-45E6-4186-8FC5-27A85BD6CFA6}|QuickSort.vcxproj|D:\\02_Learning\\03_Kata\\Kata\\QuickSort\\quickSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1C4361E-45E6-4186-8FC5-27A85BD6CFA6}|QuickSort.vcxproj|solutionrelative:quickSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C4361E-45E6-4186-8FC5-27A85BD6CFA6}|QuickSort.vcxproj|D:\\02_Learning\\03_Kata\\Kata\\QuickSort\\quickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1C4361E-45E6-4186-8FC5-27A85BD6CFA6}|QuickSort.vcxproj|solutionrelative:quickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuickSort.h",
+              "DocumentMoniker": "D:\\02_Learning\\03_Kata\\Kata\\QuickSort\\QuickSort.h",
+              "RelativeDocumentMoniker": "QuickSort.h",
+              "ToolTip": "D:\\02_Learning\\03_Kata\\Kata\\QuickSort\\QuickSort.h",
+              "RelativeToolTip": "QuickSort.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T19:12:41.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuickSort.cpp",
+              "DocumentMoniker": "D:\\02_Learning\\03_Kata\\Kata\\QuickSort\\QuickSort.cpp",
+              "RelativeDocumentMoniker": "QuickSort.cpp",
+              "ToolTip": "D:\\02_Learning\\03_Kata\\Kata\\QuickSort\\QuickSort.cpp",
+              "RelativeToolTip": "QuickSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T19:12:36.378Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "QuickSort.cpp",
-              "DocumentMoniker": "C:\\Users\\TheTechGent\\01-LEARNING\\Kata\\QuickSort\\QuickSort.cpp",
-              "RelativeDocumentMoniker": "QuickSort.cpp",
-              "ToolTip": "C:\\Users\\TheTechGent\\01-LEARNING\\Kata\\QuickSort\\QuickSort.cpp",
-              "RelativeToolTip": "QuickSort.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\02_Learning\\03_Kata\\Kata\\QuickSort\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "D:\\02_Learning\\03_Kata\\Kata\\QuickSort\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-17T18:33:45.539Z",
               "EditorCaption": ""

@@ -1,2 +1,4 @@
-﻿  QuickSort.cpp
-  QuickSort.vcxproj -> C:\Users\TheTechGent\01-LEARNING\Kata\QuickSort\x64\Debug\QuickSort.exe
+﻿  Source.cpp
+D:\02_Learning\03_Kata\Kata\QuickSort\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\02_Learning\03_Kata\Kata\QuickSort\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  QuickSort.vcxproj -> D:\02_Learning\03_Kata\Kata\QuickSort\x64\Debug\QuickSort.exe
